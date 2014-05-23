@@ -14,7 +14,7 @@
      </dependencies>
    </metadata>
    <files>
-     <file src="Ninject.SolrNet\bin\Debug\Ninject.SolrNet.dll" target="lib\net45" />
-     <file src="Ninject.SolrNet\bin\Debug\Ninject.SolrNet.pdb" target="lib\net45" />
+     <file src="Ninject.Integration.SolrNet\bin\Debug\Ninject.SolrNet.dll" target="lib\net45" />
+     <file src="Ninject.Integration.SolrNet\bin\Debug\Ninject.SolrNet.pdb" target="lib\net45" />
    </files>
  </package>
