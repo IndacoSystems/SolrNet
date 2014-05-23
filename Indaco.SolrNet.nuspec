@@ -14,9 +14,9 @@
      </dependencies>
    </metadata>
    <files>
-     <file src="SolrNet\bin\Release\SolrNet.dll" target="lib\net45" />
-     <file src="SolrNet\bin\Release\SolrNet.pdb" target="lib\net45" />
-     <file src="SolrNet.DSL\bin\Release\SolrNet.DSL.dll" target="lib\net45" />
-     <file src="SolrNet.DSL\bin\Release\SolrNet.DSL.pdb" target="lib\net45" />
+     <file src="SolrNet\bin\Debug\SolrNet.dll" target="lib\net45" />
+     <file src="SolrNet\bin\Debug\SolrNet.pdb" target="lib\net45" />
+     <file src="SolrNet.DSL\bin\Debug\SolrNet.DSL.dll" target="lib\net45" />
+     <file src="SolrNet.DSL\bin\Debug\SolrNet.DSL.pdb" target="lib\net45" />
    </files>
  </package>
