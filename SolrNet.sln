@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{26EBA068-9BBB-4FEC-B425-787D4AE99848}"
 	ProjectSection(SolutionItems) = preProject
 		build.fsx = build.fsx
@@ -49,6 +51,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{648832
 		.nuget\NuGet.Config = .nuget\NuGet.Config
 		.nuget\NuGet.exe = .nuget\NuGet.exe
 		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuspec", "nuspec", "{950B3FCF-3103-44CB-A4F7-174FA7876130}"
+	ProjectSection(SolutionItems) = preProject
+		Indaco.SolrNet.Ninject.nuspec = Indaco.SolrNet.Ninject.nuspec
+		Indaco.SolrNet.nuspec = Indaco.SolrNet.nuspec
 	EndProjectSection
 EndProject
 Global
